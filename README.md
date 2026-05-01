@@ -3,7 +3,7 @@ The Policy AI System is an intelligent tool designed to bridge the gap between d
 
 ![Policy AI System Dashboard](interface.png)
 
-*A preview of the Policy AI System processing the National Dairy Policy.*
+*A preview of the Policy AI System.*
 
 ## 🚀 Key Features
 - Intelligent Summarization: Combines extractive NLP (TF-IDF + MMR) with generative AI refinement to produce clear, readable summaries.
