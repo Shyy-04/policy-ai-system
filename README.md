@@ -1,5 +1,10 @@
-# Policy-AI-System
+# 📜 Policy AI System
 The Policy AI System is an intelligent tool designed to bridge the gap between dense government policy and actionable insights. This system uses a hybrid NLP pipeline to summarize documents and adapt them to specific real-world scenarios.
+
+![Policy AI System Dashboard](interface.png)
+
+*A preview of the Policy AI System processing the National Dairy Policy.*
+
 ## 🚀 Key Features
 - Intelligent Summarization: Combines extractive NLP (TF-IDF + MMR) with generative AI refinement to produce clear, readable summaries.
 - Scenario-Based Adaptation: Adapts a single policy (such as the Dairy-Policy.pdf) into specialized drafts for contexts like "Climate Change" or "Youth & Women Entrepreneurship".
