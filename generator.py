@@ -1,7 +1,7 @@
 from groq import Groq
 
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "The author hide the API key"
 
 
 MODEL               = "llama-3.3-70b-versatile"
